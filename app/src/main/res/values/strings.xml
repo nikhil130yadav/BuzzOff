@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BuzzzOff!</string>
+    <string name="action_help">Help</string>
+    <string name="activty_help_label">Help</string>
+
+    <string name="swipe_right">Swipe RIGHT to start</string>
+    <string name="swipe_left">Swipe LEFT to stop</string>
+    <string name="help">
+        \n
+        This application helps to avoid accidents due to drowsyness or sleepiness.
+We are implementing this concept on hardware to provide better solutions as
+mobile phone\'s cameras are not precise.\n
+\n
+How to use It.\n
+-put mobile phone on the windshield with help of phone Holder.\n
+-put mobile phone in landscape mode.\n
+-adjust it towards your face and make sure it detects your face.\n
+-everything is ready now.\n
+-swipe right to start.\n
+- whenever it detects that eyes are closed or no eyes are detected then it
+fires alarm.</string>
+</resources>
